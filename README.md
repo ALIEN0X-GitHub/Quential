@@ -18,7 +18,7 @@ This Python script generates wordlists from input strings, allowing users to cre
    ```bash
    https://github.com/ALIEN0X-GitHub/Quential.git
    ```
-2. **Run the Script:** Run the script `generate_wordlist.py`.
+2. **Run the Script:** Run the script `quential.py`.
    ```bash
    python quential.py
    ```
