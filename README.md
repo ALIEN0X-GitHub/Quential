@@ -1,21 +1,43 @@
-QUENTIAL
+#QUENTIAL
+
+---
+
+# Wordlist Generator
 
 This Python script generates wordlists from input strings, allowing users to create customized lists of permutations of characters. It offers the flexibility to specify minimum and maximum lengths for the generated words.
 
-Features:
-Generate wordlists from input strings.
-Customize word length constraints.
-Export generated wordlists to text files.
-Usage:
-Clone the repository to your local machine.
-Run the script generate_wordlist.py.
-Follow the prompts to enter input strings, specify length constraints (optional), and provide a name for the generated wordlist.
-The script will generate the wordlist and save it as a text file in the repository directory.
-Example:
-Input: ```"John Doe"```
+## Features
 
-Output: ```"doe", "doen", "doej", ...```
+- **Generate Wordlists:** Create wordlists from input strings.
+- **Customize Length:** Specify minimum and maximum lengths for generated words.
+- **Export to Text:** Export generated wordlists to text files.
 
-Dependencies:
-Python 3.x
-No external libraries required
+## Usage
+
+1. **Clone the Repository:** Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/your_username/wordlist-generator.git
+   ```
+2. **Run the Script:** Run the script `generate_wordlist.py`.
+   ```bash
+   python quential.py
+   ```
+3. **Follow Prompts:**
+   - Enter input strings.
+   - Optionally specify length constraints.
+   - Provide a name for the generated wordlist.
+4. **Output:**
+   - The script will generate the wordlist and save it as a text file in the repository directory.
+
+## Example
+
+Input: "John Doe"
+
+Output: "doe", "doen", "doej", ...
+
+## Dependencies
+
+- Python 3.x
+- No external libraries required
+
+---
