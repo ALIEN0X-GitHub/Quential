@@ -1,8 +1,8 @@
-#QUENTIAL
+# QUENTIAL
 
 ---
 
-# Wordlist Generator
+## Wordlist Generator
 
 This Python script generates wordlists from input strings, allowing users to create customized lists of permutations of characters. It offers the flexibility to specify minimum and maximum lengths for the generated words.
 
@@ -16,7 +16,7 @@ This Python script generates wordlists from input strings, allowing users to cre
 
 1. **Clone the Repository:** Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your_username/wordlist-generator.git
+   https://github.com/ALIEN0X-GitHub/Quential.git
    ```
 2. **Run the Script:** Run the script `generate_wordlist.py`.
    ```bash
